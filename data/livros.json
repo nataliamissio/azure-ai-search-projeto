@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "titulo": "Dom Casmurro",
+    "autor": "Machado de Assis",
+    "descricao": "Um romance clássico da literatura brasileira sobre memória e ciúme.",
+    "genero": "Romance"
+  },
+  {
+    "id": "2",
+    "titulo": "O Hobbit",
+    "autor": "J.R.R. Tolkien",
+    "descricao": "Uma aventura fantástica na Terra Média com o hobbit Bilbo Bolseiro.",
+    "genero": "Fantasia"
+  },
+  {
+    "id": "3",
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "descricao": "Uma distopia política sobre vigilância, controle e repressão.",
+    "genero": "Ficção Científica"
+  },
+  {
+    "id": "4",
+    "titulo": "A Menina que Roubava Livros",
+    "autor": "Markus Zusak",
+    "descricao": "A história de uma jovem durante a Segunda Guerra Mundial narrada pela Morte.",
+    "genero": "Drama"
+  }
+]
